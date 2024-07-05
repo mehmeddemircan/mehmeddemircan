@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a passionate and motivated software developer with a keen interest in coding and web technologies. Currently, I am learning ASP.NET Core Web API, Node.js, and React, and constantly expanding my skills in these areas. I recently completed an internship at Obilet from June 2022 to August 2022, where I gained hands-on experience in developing web applications and working in a team environment.I am passionate about creating clean, efficient, and scalable code and strive to deliver high-quality solutions that meet user requirements. I am a team player with  communication skills and a positive attitude, which makes me a great fit for collaborative and fast-paced work environments.<br><br>I am excited about the endless possibilities of software development and the opportunity to contribute to meaningful projects. Feel free to reach out to me for any collaboration or discussion related to coding or web development. Let's build amazing things together! 💻
+Hello, My name is Mehmet Demircan, and I was born in August 2002. I have 3 years of experience in .NET Core Web Api , ReactJS , Redux , and I am passionate about software development, always striving to improve my skills.
+
+I worked part-time as a Junior Software Developer at Architecht for 11 months. Open Banking Squad & API of Architecht Company , where I actively participated in various stages of software development processes and gained valuable experience across different projects. Additionally, I completed a 2-3 month internship at Obilet.com, which further enhanced my technical knowledge and practical skills.
+
+I have a keen interest in full stack development and aim to shape my career in this direction. I thoroughly enjoy developing user-friendly and functional applications using both frontend and backend technologies.
+
 
 
 ## 🌐 Socials:
