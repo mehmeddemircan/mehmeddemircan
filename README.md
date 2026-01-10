@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hello, My name is Mehmet Demircan, and I was born in August 2002. I have 3 years of experience in .NET Core Web Api , ReactJS , Redux , and I am passionate about software development, always striving to improve my skills.
+Hello, My name is Mehmet Demircan, and I was born in August 2002. I have 3 years of experience in .NET Core Web Api , ReactJS , Redux  and I am passionate about software development, always striving to improve my skills.
 
 I worked part-time as a Junior Software Developer at Architecht for 11 months. Open Banking Squad & API of Architecht Company , where I actively participated in various stages of software development processes and gained valuable experience across different projects. Additionally, I completed a 2-3 month internship at Obilet.com, which further enhanced my technical knowledge and practical skills.
 
