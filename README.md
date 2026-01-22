@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Hello, My name is Mehmet Demircan, and I was born in August 2002. I have 3 years of experience in .NET Core Web Api , ReactJS , Redux  and I am passionate about software development, always striving to improve my skills.
+I am a 23-year-old software developer with a strong passion for building reliable and meaningful software solutions.
+I mainly focus on backend development with .NET, while also having a keen interest in creating modern and user-friendly interfaces using Angular and React.
 
-I worked part-time as a Junior Software Developer at Architecht for 11 months. Open Banking Squad & API of Architecht Company , where I actively participated in various stages of software development processes and gained valuable experience across different projects. Additionally, I completed a 2-3 month internship at Obilet.com, which further enhanced my technical knowledge and practical skills.
+I see software development not just as writing code, but as a process of problem-solving, building scalable systems, and delivering real value to users.
+I care deeply about clean code, maintainable architectures, and performance-oriented solutions.
 
-I have a keen interest in full stack development and aim to shape my career in this direction. I thoroughly enjoy developing user-friendly and functional applications using both frontend and backend technologies.
+I am continuously improving myself, learning new technologies, and gaining hands-on experience through real-world projects.
+I am a team-oriented, curious, and motivated developer who enjoys taking responsibility and growing through challenges.
 
 
 
