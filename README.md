@@ -20,7 +20,3 @@ I am a team-oriented, curious, and motivated developer who enjoys taking respons
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmeddemircan&" alt="mehmeddemircan" /></p>
 
----
-[![](https://visitcount.itsvg.in/api?id=mehmeddemircan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
